@@ -7,13 +7,14 @@ A REST API todo list application, built to sharpen my Java and Spring Boot skill
 - **Spring Boot**
 - **PostgreSQL**
 - **Maven**
+- **Postman**
 
 ## Purpose
 A functional task manager where users can create, read, update and delete tasks.
 
 ## Status - In Progress
-- [ ] Create a task
-- [ ] Get all tasks
+- [x] Create a task
+- [x] Get all tasks
 - [ ] Update a task
 - [ ] Delete a task
 
