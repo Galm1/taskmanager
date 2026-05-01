@@ -15,8 +15,8 @@ A functional task manager where users can create, read, update and delete tasks.
 ## Status - In Progress
 - [x] Create a task
 - [x] Get all tasks
-- [ ] Update a task
-- [ ] Delete a task
+- [x] Update a task
+- [x] Delete a task
 
 ## How to Run
 Currently runs on a local server at localhost:8080
